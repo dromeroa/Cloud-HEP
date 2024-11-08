@@ -9,7 +9,8 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
 - [Licencia](#licencia)
 - ## Instalación1
 1. Instalar Linux Mint 22 (wilma)
- [Google](https://linuxmint.com/)
+ [Visita Google](https://www.google.com "Haz clic para ir a Google")
+
 
 ![Imagen de ejemplo](https://via.placeholder.com/150)
 
