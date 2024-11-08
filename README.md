@@ -4,6 +4,7 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
 ## Índice
 - [Instalación Linux](#instalación linux Mint)
 - [Instalación Docker](#instalación Docker)
+- [CMS Open Data](#CMSOpenData)
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
@@ -11,12 +12,15 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
 1. Instalar Linux Mint 22 (wilma)
    ```bash
    https://linuxmint.com/
-2. Copiar el archivo a un usb y arrancar el boot desde el usb
+2. Copiar la imagen ISO a un usb y arrancar el boot desde el usb
    ```bash
    https://www.youtube.com/watch?v=jTMee8dYiUw
-3. Tener cuidado en case se va a instalar a un nuevo disco duro a un disco que ya tiene windows para hacer correctamente las particiones.
+3. Tener cuidado en caso va a instalar a un nuevo disco duro o a un disco que ya tiene windows, para hacer correctamente las particiones.
 - ## Instalación Docker
 1. Instalar Docker
 4. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+- ## CMS Open Data
+   ```bash
+   https://cms-opendata-guide.web.cern.ch/
