@@ -2,8 +2,8 @@
 ## Descripción
 Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de los jets e implementar una rutina usando machine learning para mejorar...
 ## Índice
-- [Instalación Linux](#instalación linux Mint)
-- [Instalación Docker](#instalación Docker)
+- [Instalación-Linux](#instalaciónlinux)
+- [Instalación-Docker](#instalaciónDocker)
 - [CMS Open Data](#CMSOpenData)
 - [Uso](#uso)
 - [Contribución](#contribución)
