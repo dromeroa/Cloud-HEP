@@ -17,7 +17,7 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
    https://www.youtube.com/watch?v=jTMee8dYiUw
 3. Tener cuidado en caso va a instalar a un nuevo disco duro o a un disco que ya tiene windows, para hacer correctamente las particiones.
 - ## Instalación Docker
-1. ¿Que es Docker?
+1. ¿Qué es Docker?
    ```bash
    https://cms-opendata-workshop.github.io/workshop2024-lesson-docker/instructor/introduction.html
 3. Instalar Docker
