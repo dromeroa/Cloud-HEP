@@ -4,6 +4,7 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
 ## Índice
 - [Instalación-Linux](#instalaciónlinux)
 - [Instalación-Docker](#instalaciónDocker)
+- [Apptainer](#Apptainer)
 - [CMS Open Data](#CMSOpenData)
 - [Uso](#uso)
 - [Contribución](#contribución)
@@ -24,6 +25,9 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
    ```bash
    sudo apt update
    sudo apt install docker-ce
+- ## Apptainer
+  ```bash
+  https://cms-opendata-workshop.github.io/workshop2024-lesson-docker/04-apptainer.html
 
 - ## CMS Open Data
    ```bash
