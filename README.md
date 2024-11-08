@@ -8,7 +8,9 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
 - [Licencia](#licencia)
 - ## Instalación
 1. Instalar Linux Mint 22 (wilma)
-2. Instalar Docker
-3. Clona el repositorio:
+   ```bash
+   https://linuxmint.com/
+3. Instalar Docker
+4. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
