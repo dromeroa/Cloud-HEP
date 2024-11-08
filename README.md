@@ -24,9 +24,7 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
    ```bash
    sudo apt update
    sudo apt install docker-ce
-5. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+
 - ## CMS Open Data
    ```bash
    https://cms-opendata-guide.web.cern.ch/
