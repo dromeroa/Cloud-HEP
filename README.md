@@ -9,11 +9,8 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
 - [Licencia](#licencia)
 - ## Instalación1
 1. Instalar Linux Mint 22 (wilma)
- [Visita Google](https://www.google.com "Haz clic para ir a Google")
-
-
-![Imagen de ejemplo](https://via.placeholder.com/150)
-
+   ```bash
+   https://linuxmint.com/
 2. Copiar el archivo a un usb y arrancar el boot desde el usb
    ```bash
    https://www.youtube.com/watch?v=jTMee8dYiUw
