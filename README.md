@@ -31,6 +31,14 @@ Con ese objetivo se tienen que seguir los siguientes pasos:
    sudo apt update
    sudo apt install docker-ce
 
+- ## Physics Objects Extractor (PhysObjectExtractor)
+  Usar esta página de referencia para instalar el paquete de PhysObjectExtractor para procesar los datos de CMS (Open data), seguir las instrucciones
+   ```bash
+   [https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/](https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor)
+
+
+Referencias
+   
 - ## CMS Open Data
   Página de referencia para utilizar el código CMS con Open data 
    ```bash
@@ -40,10 +48,3 @@ Con ese objetivo se tienen que seguir los siguientes pasos:
   Página de referencia para revisar los workshop de CMS Open data
    ```bash
    https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/
-
-- ## Physics Objects Extractor (PhysObjectExtractor)
-  Usar esta página de referencia para instalar el paquete de PhysObjectExtractor para procesar los datos de CMS (Open data), seguir las instrucciones
-   ```bash
-   [https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/](https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor)
-
-   
