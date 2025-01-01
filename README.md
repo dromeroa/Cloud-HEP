@@ -9,7 +9,6 @@ Con ese objetivo se tienen que seguir los siguientes pasos:
 ## Índice
 - [Instalación-Linux](#instalaciónlinux)
 - [Instalación-Docker](#instalaciónDocker)
-- [Apptainer](#Apptainer)
 - [CMS Open Data](#CMSOpenData)
 - [Uso](#uso)
 - [Contribución](#contribución)
