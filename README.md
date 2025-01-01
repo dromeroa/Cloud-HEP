@@ -32,3 +32,7 @@ Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de lo
 - ## CMS Open Data
    ```bash
    https://cms-opendata-guide.web.cern.ch/
+
+- ## CMS Open Data workshops
+https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/
+   
