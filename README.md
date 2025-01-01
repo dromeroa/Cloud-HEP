@@ -1,6 +1,11 @@
 # Cloud-HEP
 ## Descripción
-Este proyecto tiene por objetivo estudiar los algoritmos de identificacion de los jets e implementar una rutina usando machine learning para mejorar...
+
+Este proyecto tiene como primer objetivo desarrollar un framework para acceder y procesar los datos abiertos de CMS. Como segundo objetivo 
+queremos implementar un código utilizando machine learning para mejorar la identificación de jets. 
+
+Con ese objetivo se tienen que seguir los siguientes pasos:
+
 ## Índice
 - [Instalación-Linux](#instalaciónlinux)
 - [Instalación-Docker](#instalaciónDocker)
