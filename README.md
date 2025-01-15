@@ -1,11 +1,10 @@
-# Cloud-HEP
+# Proyecto Cloud-HEP
 ## Descripción
 
 Este proyecto tiene los siguientes objetivos:
 - Desarrollar un framework para acceder y procesar los datos abiertos de CMS.
 - Implementar un código utilizando machine learning para mejorar la identificación de jets. 
 
-Con el fin de lograr los objetivos, proponemos seguir los siguientes pasos:
 
 ## Índice
 - [Instalación-Linux](#instalaciónlinux)
