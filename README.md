@@ -1,9 +1,12 @@
 # Proyecto Cloud-HEP
-## Descripción
+## Descripción del proyecto
 
 Este proyecto tiene los siguientes objetivos:
 - Desarrollar un framework para acceder y procesar los datos abiertos de CMS.
 - Implementar un código utilizando machine learning para mejorar la identificación de jets. 
+
+## Acerca del README
+Este documento tiene como objetivo proporcionar soporte y detallar los procedimientos clave necesarios para configurar una estructura computacional capaz de procesar los datos abiertos de la colaboración CMS. Muchos de estos procedimientos están basados en las guías y recomendaciones proporcionadas por CMS, y su efectividad ha sido comprobada siguiendo el enfoque descrito en este documento.
 
 
 ## Índice
@@ -13,6 +16,9 @@ Este proyecto tiene los siguientes objetivos:
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
+
+
+
 - ## Instalación Linux
 1. Instalar Linux Mint 22 (wilma)
    ```bash
