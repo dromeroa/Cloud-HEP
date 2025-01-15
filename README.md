@@ -36,6 +36,16 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
    sudo apt update
    sudo apt install docker-ce
 
+- ## Como acceder a los datos abiertos de CMS
+1. Acceder a la página
+   ```bash
+  http://opendata.cern.ch/
+
+3. Buscar algun dataset, como por ejemplo uno perteneciente al Run II, del año 2015 en el formato MiniAOD con quarks TT a 13 TeV
+   ```bash
+   RunIIFall15MiniAODv2/TT_TuneCUETP8M1_13TeV
+   
+
 - ## Physics Objects Extractor (PhysObjectExtractor)
   Usar esta página de referencia para instalar el paquete de PhysObjectExtractor para procesar los datos de CMS (Open data), seguir las instrucciones
    ```bash
