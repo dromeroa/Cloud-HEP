@@ -56,10 +56,11 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 
 
 - ## Como procesarlos datos abiertos de CMS
-Para poder procesar los datos es necesario instalar el programa CMSSW en la computadora. El software CMS (CMSSW) es una colección de bibliotecas de software que el experimento CMS utiliza para adquirir, producir, procesar e incluso analizar sus datos. El programa está escrito en C++, pero su configuración se manipula utilizando el lenguaje Python. Para mas información acerca del programa y como instalarlo se recomienda ver el ejercicio del workshop: 
-   ```bash
-   https://cms-opendata-workshop.github.io/workshop2023-lesson-cmssw/
-   
+
+Para poder procesar los datos es necesario instalar el programa CMSSW en la computadora. El software CMS (CMSSW) es una colección de bibliotecas de software que el experimento CMS utiliza para adquirir, producir, procesar e incluso analizar sus datos. El programa está escrito en C++, pero su configuración se manipula utilizando el lenguaje Python. Para mas información acerca del programa y como instalarlo se recomienda ver el ejercicio del workshop 
+
+      ```bash
+      https://cms-opendata-workshop.github.io/workshop2023-lesson-cmssw/
 
 - ## Physics Objects Extractor (PhysObjectExtractor)
   Usar esta página de referencia para instalar el paquete de PhysObjectExtractor para procesar los datos de CMS (Open data), seguir las instrucciones
