@@ -27,6 +27,7 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
    ```bash
    https://www.youtube.com/watch?v=jTMee8dYiUw
 3. Tener cuidado en caso va a instalar a un nuevo disco duro o a un disco que ya tiene windows, para hacer correctamente las particiones.
+   
 - ## Instalación Docker
 1. ¿Qué es Docker?
    ```bash
@@ -39,7 +40,7 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 - ## Como acceder a los datos abiertos de CMS
 1. Acceder a la página
    ```bash
-  http://opendata.cern.ch/
+   http://opendata.cern.ch/
 
 3. Buscar algun dataset, como por ejemplo uno perteneciente al Run II, del año 2015 en el formato MiniAOD con quarks TT a 13 TeV
    ```bash
