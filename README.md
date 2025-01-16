@@ -12,10 +12,9 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 ## Índice
 - [Instalación-Linux](#instalaciónlinux)
 - [Instalación-Docker](#instalaciónDocker)
-- [CMS Open Data](#CMSOpenData)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Como acceder a los datos abiertos de CMS](#CMSOpenData)
+- [Como procesarlos datos abiertos de CMS](#CMSSW)
+
 
 
 
