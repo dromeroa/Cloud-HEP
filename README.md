@@ -47,10 +47,12 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
    RunIIFall15MiniAODv2/TT_TuneCUETP8M1_13TeV
 
 3. Ingresar al dataset
+
+4. Ir a File Indexes
    
-4. Listar los archivos
+5. Listar los archivos
    
-5. Desacargar el archivo root
+6. Desacargar el archivo root
 
 
    
