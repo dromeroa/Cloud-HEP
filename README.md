@@ -17,7 +17,7 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 
 
 
-
+<a name="instalaciónlinux"/>
 - ## Instalación Linux 
 1. Instalar Linux Mint 22 (wilma)
    ```bash
