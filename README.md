@@ -45,6 +45,10 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 3. Buscar algun dataset, como por ejemplo uno perteneciente al Run II, del año 2015 en el formato MiniAOD con quarks TT a 13 TeV
    ```bash
    RunIIFall15MiniAODv2/TT_TuneCUETP8M1_13TeV
+
+![busqueda1](https://github.com/user-attachments/assets/ac680a4c-eee2-4526-b302-c2def6ee8c65)
+
+   
    
 
 - ## Physics Objects Extractor (PhysObjectExtractor)
