@@ -10,15 +10,13 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 
 
 ## Índice
-- [Instalación-Linux](#instalaciónlinux)
+- [Instalación-Linux](##instalaciónlinux)
 - [Instalación-Docker](#instalaciónDocker)
 - [Como acceder a los datos abiertos de CMS](#CMSOpenData)
 - [Como procesarlos datos abiertos de CMS](#CMSSW)
 
 
-
-
-- # Instalación-Linux
+- ##instalaciónlinux
 1. Instalar Linux Mint 22 (wilma)
    ```bash
    https://linuxmint.com/
