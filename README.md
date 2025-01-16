@@ -62,7 +62,7 @@ Para poder procesar los datos es necesario instalar el programa CMSSW en la comp
 - ## Como instalar el Physics Objects Extractor (PhysObjectExtractor)
   Usar esta página de referencia para instalar el paquete de PhysObjectExtractor para procesar los datos de CMS (Open data), seguir las instrucciones
    ```bash
- (https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor)
+ https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor
 
 
 Referencias
