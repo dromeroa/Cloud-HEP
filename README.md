@@ -10,7 +10,7 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 
 
 ## Índice
-- [Instalación-Linux](##Instalación-Linux)
+- [Instalación-Linux](https://github.com/dromeroa/Cloud-HEP/blob/main/README.md#instalaci%C3%B3n-linux)
 - [Instalación-Docker](##Instalación-Docker)
 - [Como acceder a los datos abiertos de CMS](##CMSOpenData)
 - [Como procesarlos datos abiertos de CMS](##CMSSW)
