@@ -14,7 +14,7 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 - [Instalación-Docker](https://github.com/dromeroa/Cloud-HEP/blob/main/README.md#instalaci%C3%B3n-docker)
 - [Como acceder a los datos abiertos de CMS](https://github.com/dromeroa/Cloud-HEP/blob/main/README.md#como-acceder-a-los-datos-abiertos-de-cms)
 - [Como procesarlos datos abiertos de CMS](https://github.com/dromeroa/Cloud-HEP/blob/main/README.md#como-procesarlos-datos-abiertos-de-cms)
-
+- Como instalar el Physics Objects Extractor(https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor)
 
 - ## Instalación-Linux
 1. Instalar Linux Mint 22 (wilma)
@@ -50,6 +50,7 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 5. Listar los archivos
    
 6. Desacargar el archivo root
+   
 
 
 - ## Como procesarlos datos abiertos de CMS
@@ -58,10 +59,10 @@ Para poder procesar los datos es necesario instalar el programa CMSSW en la comp
 
       https://cms-opendata-workshop.github.io/workshop2023-lesson-cmssw/
 
-- ## Physics Objects Extractor (PhysObjectExtractor)
+- ## Como instalar el Physics Objects Extractor (PhysObjectExtractor)
   Usar esta página de referencia para instalar el paquete de PhysObjectExtractor para procesar los datos de CMS (Open data), seguir las instrucciones
    ```bash
-   [https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/](https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor)
+ (https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor)
 
 
 Referencias
