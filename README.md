@@ -16,7 +16,7 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 - [Como procesarlos datos abiertos de CMS](#CMSSW)
 
 
-- ##instalaciónlinux
+- ## Instalación-Linux
 1. Instalar Linux Mint 22 (wilma)
    ```bash
    https://linuxmint.com/
