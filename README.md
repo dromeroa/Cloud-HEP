@@ -23,26 +23,31 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
    ```
 2. Copiar la imagen ISO a un usb y arrancar el boot desde el usb
    ```bash
-   https://www.youtube.com/watch?v=jTMee8dYiUw```
+   https://www.youtube.com/watch?v=jTMee8dYiUw
+   ```
 3. Tener cuidado en caso va a instalar a un nuevo disco duro o a un disco que ya tiene windows, para hacer correctamente las particiones.
    
 - ## Instalación-Docker
 1. ¿Qué es Docker?
    ```bash
-   https://cms-opendata-workshop.github.io/workshop2024-lesson-docker/instructor/introduction.html```
+   https://cms-opendata-workshop.github.io/workshop2024-lesson-docker/instructor/introduction.html
+   ```
 3. Instalar Docker
    ```bash
    sudo apt update
-   sudo apt install docker-ce```
+   sudo apt install docker-ce
+   ```
 
 - ## Como acceder a los datos abiertos de CMS
 1. Acceder a la página
    ```bash
-   http://opendata.cern.ch/```
+   http://opendata.cern.ch/
+   ```
 
 2. Buscar algun dataset, como por ejemplo uno perteneciente al Run II, del año 2015 en el formato MiniAOD con quarks TT a 13 TeV
    ```bash
-   RunIIFall15MiniAODv2/TT_TuneCUETP8M1_13TeV```
+   RunIIFall15MiniAODv2/TT_TuneCUETP8M1_13TeV
+   ```
 
 3. Ingresar al dataset
 
@@ -63,15 +68,18 @@ Para poder procesar los datos es necesario instalar el programa CMSSW en la comp
 - ## Como instalar el Physics Objects Extractor (PhysObjectExtractor)
   Usar esta página de referencia para instalar el paquete de PhysObjectExtractor para procesar los datos de CMS (Open data), seguir las instrucciones
    ```bash
-   https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor```
+   https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor
+   ```
 
 - ## Como iniciar el procesamiento
 Una vez instalado el CMSSW_XXX, donde la version XXX debe estar alineada con los datos que se piensan procesar. Ingresamos a la carpeta del CMSSW:  
-   ```bash
-    cd CMSSW_7_6_7```
+```bash
+cd CMSSW_7_6_7
+```
 Ingresamos al Physics Object
-   ```bash
-   cd PhysObjectExtractorTool/PhysObjectExtractor/```
+```bash
+cd PhysObjectExtractorTool/PhysObjectExtractor/
+```
 
 
 
