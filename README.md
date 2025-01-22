@@ -66,9 +66,9 @@ Para poder procesar los datos es necesario instalar el programa CMSSW en la comp
 
 - ## Como iniciar el procesamiento
 Una vez instalado el CMSSW_XXX, donde la version XXX debe estar alineada con los datos que se piensan procesar.  
-
    ```bash
    cd CMSSW_7_6_7
+
 
 Referencias
    
