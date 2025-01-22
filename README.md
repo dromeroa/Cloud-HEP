@@ -76,3 +76,6 @@ Referencias
   Página de referencia para revisar los workshop de CMS Open data
    ```bash
    https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/
+
+
+![imagen](https://github.com/user-attachments/assets/e34ea032-aecd-4d92-8a25-346a0ec34f1a)
