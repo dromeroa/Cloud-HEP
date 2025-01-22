@@ -1,4 +1,4 @@
-# Proyecto Cloud-HEP
+# Proyecto Cloud-HEP - Jets
 ## Descripción del proyecto
 
 Este proyecto tiene los siguientes objetivos:
@@ -100,11 +100,17 @@ Analizar el contenido del archivo y las colecciones usando el programa "VI"
 ```bash
 vi JetAnalyzer.cc 
 ```
+Salir del src e ingresar a la carpeta "python". Aqui se debe copiar los datos (en archivo root) que vamos a procesar. Analizar con cuidado el archivo: "poet_cfg.py".
+Este es el archivo de configuracion que vamos a usar para procesar los datos. Una vez que este archivo este con las opciones deseadas, hacemos
+```bash
+cmsRun poet_cfg.py
+```
+<style>
+.page-break { page-break-before: always; }
+</style>
 
 
-
-
-Referencias
+**Referencias**
    
 - ## CMS Open Data
   Página de referencia para utilizar el código CMS con Open data 
