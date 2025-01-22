@@ -64,6 +64,11 @@ Para poder procesar los datos es necesario instalar el programa CMSSW en la comp
    ```bash
    https://github.com/cms-opendata-analyses/PhysObjectExtractorTool/tree/master/PhysObjectExtractor
 
+- ## Como iniciar el procesamiento
+Una vez instalado el CMSSW_XXX, donde la version XXX debe estar alineada con los datos que se piensan procesar.  
+
+```bash
+cd CMSSW_7_6_7/
 
 Referencias
    
