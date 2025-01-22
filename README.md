@@ -96,8 +96,10 @@ El siguiente paso es identificar un Analyzer para trabajar, esto depende de cual
 ```bash
 JetAnalyzer.cc 
 ```
-
-
+Analizar el contenido del archivo y las colecciones usando el programa "VI"
+```bash
+vi JetAnalyzer.cc 
+```
 
 
 
