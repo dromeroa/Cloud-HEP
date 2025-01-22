@@ -92,6 +92,12 @@ Configuramos el entorno de trabajo
 ```bash
 cmsenv
 ```
+El siguiente paso es identificar un Analyzer para trabajar, esto depende de cual es el tipo de objeto que se quiere analizar, por ejemplo si queremos analizar jets podemos usar:
+```bash
+JetAnalyzer.cc 
+```
+
+
 
 
 
