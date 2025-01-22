@@ -105,9 +105,7 @@ Este es el archivo de configuracion que vamos a usar para procesar los datos. Un
 ```bash
 cmsRun poet_cfg.py
 ```
-<style>
-.page-break { page-break-before: always; }
-</style>
+---
 
 
 **Referencias**
