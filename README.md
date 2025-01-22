@@ -74,13 +74,20 @@ Para poder procesar los datos es necesario instalar el programa CMSSW en la comp
 - ## Como iniciar el procesamiento
 Una vez instalado el CMSSW_XXX, donde la version XXX debe estar alineada con los datos que se piensan procesar. Ingresamos a la carpeta del CMSSW:  
 ```bash
-cd CMSSW_7_6_7
+cd CMSSW_7_6_7/src
+```
+Inicializamos Docker
+```bash
+sudo docker start -i my_od
 ```
 Ingresamos al Physics Object
 ```bash
 cd PhysObjectExtractorTool/PhysObjectExtractor/
 ```
-
+Entramos al source
+```bash
+cd src
+```
 
 
 
