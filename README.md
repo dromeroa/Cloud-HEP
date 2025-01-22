@@ -19,7 +19,8 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
 - ## Instalación-Linux
 1. Instalar Linux Mint 22 (wilma)
    ```bash
-   https://linuxmint.com/```
+   https://linuxmint.com/
+   ```
 2. Copiar la imagen ISO a un usb y arrancar el boot desde el usb
    ```bash
    https://www.youtube.com/watch?v=jTMee8dYiUw```
