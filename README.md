@@ -72,4 +72,17 @@ Una vez instalado el CMSSW_XXX, donde la version XXX debe estar alineada con los
 
 
 
-![imagen](https://github.com/user-attachments/assets/e34ea032-aecd-4d92-8a25-346a0ec34f1a)
+
+
+
+Referencias
+   
+- ## CMS Open Data
+  Página de referencia para utilizar el código CMS con Open data 
+   ```bash
+   https://cms-opendata-guide.web.cern.ch/
+
+- ## CMS Open Data workshops
+  Página de referencia para revisar los workshop de CMS Open data
+   ```bash
+   https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/
