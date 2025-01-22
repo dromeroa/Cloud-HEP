@@ -88,6 +88,10 @@ Entramos al source
 ```bash
 cd src
 ```
+Configuramos el entorno de trabajo
+```bash
+cmsenv
+```
 
 
 
