@@ -14,6 +14,10 @@
 
 6. El grupo del MIT tiene ya los datasets procesados, ver si podemos acceder a ellos.
 
+   Los datasets se encuentran en:
+
+   https://zenodo.org/records/3340205#.Xh4UeEdKgzM
+
 
 
 
