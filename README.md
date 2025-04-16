@@ -118,7 +118,7 @@ Tener configurado el entorno con:
 
 ```bash
 cmsenv
-
+```
 
 ```bash
 cd $CMSSW_BASE/src
@@ -126,7 +126,7 @@ cmsenv
 scram b
 mkdir MyAnalyzer
 cd MyAnalyzer 
-
+```
 
 
 
