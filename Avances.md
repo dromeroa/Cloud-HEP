@@ -26,6 +26,10 @@ El procesamiento lo realizan con su paquete de Python:
 
 https://hub.2i2c.mybinder.org/user/pkomiske-energyflow-1swtgcaw/notebooks/demos/MOD%20Jet%20Demo.ipynb
 
+Con el Git-Hub relacionado:
+
+https://github.com/pkomiske/MOD
+
 
 
 
