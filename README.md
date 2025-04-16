@@ -110,6 +110,28 @@ cmsRun poet_cfg.py
 ---
 
 
+# Pasos para crear un Analyzer
+
+Tener una instalación funcional de CMSSW (por ejemplo CMSSW__6_7_7
+
+Tener configurado el entorno con:
+
+```bash
+cmsenv
+
+
+```bash
+cd $CMSSW_BASE/src
+cmsenv
+scram b
+mkdir MyAnalyzer
+cd MyAnalyzer 
+
+
+
+
+
+
 **Referencias**
    
 - ## CMS Open Data
