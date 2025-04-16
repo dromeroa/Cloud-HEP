@@ -128,7 +128,11 @@ mkdir MyAnalyzer
 cd MyAnalyzer 
 ```
 
+Crear el Analyzer
 
+```bash
+mkedanlzr MyAnalyzer
+```
 
 
 
