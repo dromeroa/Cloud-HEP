@@ -53,3 +53,11 @@ sudo docker run -it --name my_od_5_3_32--net=host --env="DISPLAY" -v $HOME/.Xaut
 Notar que hemos utilizado el my_od_5_3_32 para este caso para no utilizar el del otro release.
 
 
+## Viernes 18 de Abril del 2025
+
+1. Hemos notado que para poder identificar a los fatjets, es necesario usar los datasets que si tengan estas caracteristicas. Para esto necesitamos datasets a partir del 2015.(No podemos usar los de años inferiores)
+2. Estoy probando con:
+   /JetHT/Run2015D-16Dec2015-v1/MINIAOD
+No estoy usando el AOD por ahora porque son muy pesados.
+   
+
