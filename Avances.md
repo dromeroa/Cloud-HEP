@@ -31,5 +31,18 @@ Con el Git-Hub relacionado:
 https://github.com/pkomiske/MOD
 
 
+## Jueves 17 de Abril del 2025
+
+1. Vamos a probar el dataset utilizado por Metodiev
+   Jet primary dataset in AOD format from RunA of 2011 (/Jet/Run2011A-12Oct2013-v1/AOD)
+   * Tener cuidado, estos datasets estan ya estan pre procesados, son RECO (This primary AOD dataset was processed from the RAW dataset by the following step:RECO) y si se pueden usar directamente en los analisis. Sin embargo los que son RAW, no se pueden usar directamente en los analisis, se deben procesar primero.
+  
+2. Estos datasets fueron generados con el CMSSW_5_3_32 por lo que debemos instalar esta version en nuestra area de trabajo.
+
+3. Creamos la carpeta primero:
+
+   mkdir CMSSW_5_3_32
+
+4. Luego 
 
 
