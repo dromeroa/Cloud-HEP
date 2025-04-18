@@ -40,6 +40,11 @@ Este documento tiene como objetivo proporcionar soporte y detallar los procedimi
    sudo apt install docker-ce
    ```
 
+##  Para ver diferentes contenedores
+
+sudo docker ps -a
+
+
 - ## Como acceder a los datos abiertos de CMS
 1. Acceder a la página
    ```bash
