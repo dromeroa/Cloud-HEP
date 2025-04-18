@@ -41,9 +41,10 @@ https://github.com/pkomiske/MOD
 
 3. Creamos la carpeta primero:
 
-        ```bash
+   ```bash
    mkdir CMSSW_5_3_32
    ```
+
 4. Creamos el contenedor:
 ```bash
 sudo docker run -it --name my_od_5_3_32--net=host --env="DISPLAY" -v $HOME/.Xauthority:/home/cmsusr/.Xauthority:rw  -v ${HOME}cms_open_data_work:/code cmsopendata/cmssw_5_3_32-slc6_amd64_gcc472 /bin/bash
