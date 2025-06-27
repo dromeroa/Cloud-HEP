@@ -152,6 +152,13 @@ Crear el Analyzer
 mkedanlzr MyAnalyzer
 ```
 
+**DATOS DE COLISION JETS**
+JetHT primary dataset in NANOAOD format from RunH of 2016 (/JetHT/Run2016H-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD) 
+https://opendata.cern.ch/record/30558
+
+Simulated dataset QCD_Pt_600to800_TuneCP5_13TeV_pythia8 in NANOAODSIM format for 2016 collision data
+https://opendata.cern.ch/record/63230
+
 
 
 **Referencias**
