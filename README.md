@@ -164,6 +164,17 @@ https://opendata.cern.ch/record/63230
 
 
 
+
+- ## Para entrar al entorno conda donde esta el tensorflow que funciona
+
+  conda activate tf
+
+  jupyter notebook
+
+  conda deactivate
+
+
+
 **Referencias**
    
 - ## CMS Open Data
