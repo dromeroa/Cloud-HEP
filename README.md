@@ -186,6 +186,7 @@ Entrar al sftp:
 
 ```bash
 sftp -i /home/david/openssh_hep1.ppk ubuntu@10.0.2.14
+```
 
 como copiar archivos:
 
@@ -193,7 +194,7 @@ Vas a la carpeta donde se encuentra el archivo y haces:
 
 ```bash
 put tau21.pdf 
-
+```
 
 
 **Referencias**
@@ -203,8 +204,10 @@ put tau21.pdf
   
    ```bash
    https://cms-opendata-guide.web.cern.ch/
+```
 
 - ## CMS Open Data workshops
   Página de referencia para revisar los workshop de CMS Open data
    ```bash
    https://cms-opendata-guide.web.cern.ch/cmsOpenData/workshops/
+```
