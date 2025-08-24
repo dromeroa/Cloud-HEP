@@ -154,7 +154,7 @@ mkedanlzr MyAnalyzer
 
 - ## DATOS DE COLISION JETS
 
-### Simulated dataset QCD_Pt-15to7000_TuneCP5_Flat2018_13TeV_pythia8 in NANOAODSIM format for 2016 collision data
+### Simulated dataset QCD_Pt-15to7000_TuneCP5_Flat2018_13TeV_pythia8 in NANOAODSIM format for 2016 collision data (Esta deberia ser nuestro dataset para el background)
 
 https://opendata.cern.ch/record/63168
 
