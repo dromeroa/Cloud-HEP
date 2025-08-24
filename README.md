@@ -169,6 +169,31 @@ https://opendata.cern.ch/record/63230
 - ### Bulk Graviton (Simulated dataset BulkGravToWWToWhadWhad_narrow_M-1600_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data)
 http://opendata.cern.ch/record/33699
 
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-5000_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data 
+https://opendata.cern.ch/record/33715
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-4500_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data
+  https://opendata.cern.ch/record/33713
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-4000_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data
+https://opendata.cern.ch/record/33711
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-3500_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data
+  https://opendata.cern.ch/record/33709
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-3000_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data
+  https://opendata.cern.ch/record/33707
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-2500_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data
+  https://opendata.cern.ch/record/33705
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-2000_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data
+  https://opendata.cern.ch/record/33703
+  
+  
+
+  
+
 
 
 - ## Para entrar al entorno conda donde esta el tensorflow que funciona
