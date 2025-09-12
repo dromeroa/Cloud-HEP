@@ -166,6 +166,8 @@ https://opendata.cern.ch/record/30558
 
 https://opendata.cern.ch/record/63230
 
+** Importante, notar que este dataset no tiene todos los fatjets del evento, aparentemente CMS lo ha procedaso para guardar un solo fatjet, (suponemos que lo hace para reducir espacio), igual podemos trabajar con el pero ya no tenemos una coleccion de jets, si no solo 1 jet por evento). Notar esto en el articulo
+
 - ### Bulk Graviton (Simulated dataset BulkGravToWWToWhadWhad_narrow_M-1600_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data)
 http://opendata.cern.ch/record/33699
 
