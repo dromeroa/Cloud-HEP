@@ -220,7 +220,8 @@ sftp -i /home/david/openssh_hep1.ppk ubuntu@10.0.2.14
 como copiar archivos:
 
 put -> subir archivos
-get -> descragar archivods
+
+get -> descargar archivods
 
 Vas a la carpeta donde se encuentra el archivo y haces:
 
