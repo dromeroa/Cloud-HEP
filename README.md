@@ -192,9 +192,23 @@ https://opendata.cern.ch/record/33711
 - ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-2000_TuneCP5_13TeV-madgraph-pythia in NANOAODSIM format for 2016 collision data
   https://opendata.cern.ch/record/33703
   
-  
 
-  
+- ## MINIAOD***************
+ 
+- ###  Simulated dataset BulkGravToWWToWhadWhad_narrow_M-5000_TuneCP5_13TeV-madgraph-pythia in MINIAODSIM format for 2016 collision data (136 000 EVENTOS)
+  https://opendata.cern.ch/record/33714
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-4000_TuneCP5_13TeV-madgraph-pythia in MINIAODSIM format for 2016 collision data (137 000 EVENTOS)
+https://opendata.cern.ch/record/33710
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-3000_TuneCP5_13TeV-madgraph-pythia in MINIAODSIM format for 2016 collision data (138 000 EVENTOS)
+https://opendata.cern.ch/record/33706
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-2000_TuneCP5_13TeV-madgraph-pythia in MINIAODSIM format for 2016 collision data (137 000 EVENTOS)
+https://opendata.cern.ch/record/33702
+
+- ### Simulated dataset BulkGravToWWToWhadWhad_narrow_M-1000_TuneCP5_13TeV-madgraph-pythia in MINIAODSIM format for 2016 collision data (137 000 EVENTOS)
+https://opendata.cern.ch/record/33692
 
 
 
