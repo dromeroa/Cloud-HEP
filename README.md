@@ -250,10 +250,19 @@ https://opendata.cern.ch/record/33692
 https://opendata.cern.ch/record/63253
 
 - ### Simulated dataset QstarToQW_M_3000_mW_80_TuneCP2_13TeV-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
-  https://opendata.cern.ch/record/63261
+https://opendata.cern.ch/record/63261
 
 - ### Simulated dataset QstarToQW_M_5000_mW_80_TuneCP2_13TeV-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
-  https://opendata.cern.ch/record/63269
+https://opendata.cern.ch/record/63269
+
+- ### Simulated dataset Wprime_ggF_WZ_WhadZlep_narrow_M1000_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
+https://opendata.cern.ch/record/71486
+
+- ### Simulated dataset Wprime_ggF_WZ_WhadZlep_narrow_M1200_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
+https://opendata.cern.ch/record/71488
+
+- ### Simulated dataset Wprime_ggF_WZ_WhadZlep_narrow_M1400_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
+https://opendata.cern.ch/record/71490
 
 
 - ## Para entrar al entorno conda donde esta el tensorflow que funciona
