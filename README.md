@@ -282,6 +282,20 @@ https://opendata.cern.ch/record/71504
 - ### Simulated dataset Wprime_ggF_WZ_WhadZlep_narrow_M5000_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
 https://opendata.cern.ch/record/71508
 
+## Nuevas 01 base
+
+- ### Simulated dataset XToYYprimeTo4Q_MX2000_MY170_MYprime80_narrow_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
+https://opendata.cern.ch/record/73161
+
+- ### Simulated dataset XToYYprimeTo4Q_MX3000_MY25_MYprime170_narrow_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data  (23000 events)
+https://opendata.cern.ch/record/73281
+
+- ### Simulated dataset XToYYprimeTo4Q_MX5000_MY80_MYprime400_narrow_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
+https://opendata.cern.ch/record/73603
+
+
+
+
 - ## Para entrar al entorno conda donde esta el tensorflow que funciona
 
   conda activate tf
