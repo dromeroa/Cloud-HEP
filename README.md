@@ -289,7 +289,11 @@ https://opendata.cern.ch/record/73213
 
 - ### Simulated dataset XToYYprimeTo4Q_MX3000_MY80_MYprime25_narrow_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data
 https://opendata.cern.ch/record/73349
-  
+
+- ### Simulated dataset XToYYprimeTo4q_MX4000_MY60_MYprime90_narrow_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data
+https://opendata.cern.ch/record/73463
+
+
 
 
 - ### Simulated dataset XToYYprimeTo4Q_MX2000_MY170_MYprime80_narrow_TuneCP5_13TeV-madgraph-pythia8 in MINIAODSIM format for 2016 collision data (23000 events)
